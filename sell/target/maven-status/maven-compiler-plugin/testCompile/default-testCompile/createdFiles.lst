@@ -1,0 +1,14 @@
+com\imooc\repository\ProductCategoryRepositoryTest.class
+com\imooc\service\impl\ProductServiceImplTest.class
+com\imooc\LoggerTest.class
+com\imooc\repository\SellerInfoRepositoryTest.class
+com\imooc\service\impl\PushMessageServiceImplTest.class
+com\imooc\service\impl\CategoryServiceImplTest.class
+com\imooc\repository\OrderDetailRepositoryTest.class
+com\imooc\SellApplicationTests.class
+com\imooc\repository\OrderMasterRepositoryTest.class
+com\imooc\repository\ProductInfoRepositoryTest.class
+com\imooc\LoggerTest2.class
+com\imooc\service\impl\SellerServiceImplTest.class
+com\imooc\service\impl\PayServiceImplTest.class
+com\imooc\service\impl\OrderServiceImplTest.class
